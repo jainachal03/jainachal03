@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on becoming a better programmer
 [![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jainachal03&count_private=true&theme=tokyonight)](https://github.com/jainachal03/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
